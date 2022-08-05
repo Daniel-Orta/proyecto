@@ -8,10 +8,10 @@
 :root{
     /*Colores*/
     --bitcoin-orang: #eca712;
-    --soft-orange: #ac8a6a;
+    --soft-orange: #bb8a5c;
     --secondary-blue:#12dddd;
     --soft-blue:#587a92;
-    --warm-black: #201E1C;
+    --warm-black: #eeeae5;
     --black:#282623;
     --grey:#BABABA;
     --off-white:#FAF8F7;
@@ -397,13 +397,13 @@ main{
 
 .bitcoin-img-container{
     width: 100%;
-    min-width: 320px;
-    height: 50vh;
-    background-image: url('./Assets/imgs/bitcoinbaby2x.jpg');
+    min-width: 220px;
+    height: 40vh;
+    background-image: url('./Assets/imgs/image1.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    text-align: center;
+    text-align: right;
 }
 
 .bitcoin-img-container h2{
